@@ -1,7 +1,7 @@
 # julia-rest-api
-> An JSON and MySQL API made in Julia
+> A JSON and MySQL API made in Julia
 ## Purpose
-I'm just trying to learn something new. Julia seemed like an awesome language, and I decided to made this.
+I'm just trying to learn something new. Julia seemed like an awesome language, and I decided to make this.
 ## Installing Julia
 You need to install Julia on your machine to test the API. You can find the binary equivalent to your OS in [https://julialang.org/downloads/](https://julialang.org/downloads/).
 ## Installing dependencies
